@@ -7,3 +7,5 @@ commit add 2.
 
 git fetch --all 
 git reset --hard origin/master
+
+--新修改哦
