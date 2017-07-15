@@ -2,5 +2,8 @@ Thinker is A Man.
 Thinker is A Bad Man.
 commit add 1.
 commit add 2.
+
+--git force update
+
 git fetch --all 
-git reset --hard origin/master git fetch
+git reset --hard origin/master
