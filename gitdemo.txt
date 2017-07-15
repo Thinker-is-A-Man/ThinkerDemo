@@ -3,7 +3,7 @@ Thinker is A Bad Man.
 commit add 1.
 commit add 2.
 
---git force update(强更新)
+--git force update  (强更新)
 
 git fetch --all 
 git reset --hard origin/master
