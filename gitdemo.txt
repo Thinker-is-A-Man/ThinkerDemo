@@ -9,3 +9,5 @@ git fetch --all
 git reset --hard origin/master
 
 --新修改哦（理解一下暂存区）mybranch
+
+A new day.
