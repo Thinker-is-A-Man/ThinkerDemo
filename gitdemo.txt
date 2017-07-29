@@ -19,4 +19,8 @@ sun
 
 aaaaa
 
+<<<<<<< HEAD
 ccccc
+=======
+bbbbb
+>>>>>>> new
