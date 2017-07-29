@@ -12,8 +12,4 @@ git reset --hard origin/master
 
 A new day.
 
-<<<<<<< HEAD
 下雨
-=======
-rain
->>>>>>> 272415c07f12e9560c56b8806569b5475a18ccba
